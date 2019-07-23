@@ -6,8 +6,8 @@ class Evento(models.Model):
     local = models.CharField(max_length=80, help_text='Local do evento')
     data_inicio = models.DateField(help_text='Início do evento')
     data_termino = models.DateField(help_text='Fim do evento')
-    url = models.URLField(help_text='URL')
-    img_evento = models.FileField()
+    url = models.URLField(help_text='URL', blank=True)
+    img_evento = models.FileField(blank=True)
     flag_icon = models.CharField(max_length=5)
 
     circuito = models.ForeignKey(Circuito, verbose_name="Circuito onde se realiza o evento",

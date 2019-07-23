@@ -1,5 +1,4 @@
 from .Categoria import Categoria
-from .Categoria_Post import Categoria_Post
 from .Cidade import Cidade
 from .Circuito import Circuito
 from .Comentario import Comentario
@@ -7,7 +6,6 @@ from .Equipe import Equipe
 from .Evento import Evento
 from .Funcao import Funcao
 from .Grupo import Grupo
-from .MembrosGrupo import MembrosGrupo
 from .Pais import Pais
 from .Piloto import Piloto
 from .Pontuacao import Pontuacao

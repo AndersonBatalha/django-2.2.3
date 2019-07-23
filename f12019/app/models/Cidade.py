@@ -4,7 +4,7 @@ from .Pais import Pais
 class Cidade(models.Model):
     cidade = models.CharField(max_length=150)
 
-    pais = models.ForeignKey(Pais, on_delete=models.DO_NOTHING)
+    pais = models.ForeignKey(Pais, on_delete=models.CASCADE)
 
     def __str__(self):
         return self.cidade

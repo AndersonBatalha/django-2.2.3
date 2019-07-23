@@ -18,5 +18,9 @@ from django.urls import path
 from .views import *
 
 urlpatterns = [
-    path('', index, name='index'),
+    path("", index, name='index'),
+    path("calendario", calendario, name='calendario'),
+    path("equipes", equipes, name='equipes'),
+    path("pilotos", pilotos, name='pilotos'),
+    path("classificacao", classificacao, name='classificacao'),
 ]

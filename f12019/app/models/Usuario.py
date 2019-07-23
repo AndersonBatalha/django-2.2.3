@@ -9,18 +9,18 @@ class Usuario(models.Model):
         EmailValidator(message="Entre com um endereço de e-mail válido")
     ])
     data_nasc = models.DateField()
-    endereco = models.CharField(max_length=300, help_text="Endereço")
-    complemento = models.CharField(max_length=150, help_text="Complemento")
-    bairro = models.CharField(max_length=100, help_text="Bairro")
-    cidade = models.CharField(max_length=100, help_text="Cidade")
-    estado = models.CharField(max_length=100, help_text="Estado")
-    pais = models.CharField(max_length=100, help_text="Estado")
+    endereco = models.CharField(max_length=300, help_text="Endereço", blank=True)
+    complemento = models.CharField(max_length=150, help_text="Complemento", blank=True)
+    bairro = models.CharField(max_length=100, help_text="Bairro", blank=True)
+    cidade = models.CharField(max_length=100, help_text="Cidade", blank=True)
+    estado = models.CharField(max_length=100, help_text="Estado", blank=True)
+    pais = models.CharField(max_length=100, help_text="Estado", blank=True)
     hash_senha = models.CharField(max_length=100)
     avatar = models.URLField(max_length=125,
                              help_text="URL do Gravatar",
                              validators=[
                                  URLValidator(message="Informe uma URL válida")
-                             ])
+                             ], blank=True)
 
     funcao = models.ForeignKey(Funcao, on_delete=models.CASCADE)
 
