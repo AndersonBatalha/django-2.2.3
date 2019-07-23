@@ -1,0 +1,1459 @@
+{
+    "calendario_temporada": [
+        {
+            "id": 1,
+            "local": "Austrália",
+            "data": {
+                "data_inicio": "14/03/2019",
+                "data_termino": "17/03/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2019",
+            "nome_circuito": "Albert Park",
+            "localizacao": {
+                "cidade": "Melbourne",
+                "pais": "Austrália"
+            },
+            "primeira_corrida": 1996,
+            "recorde_pista": {
+                "piloto_recorde": "Michael Schumacher",
+                "ano_recorde": 2004,
+                "tempo_recorde": "1:24.125"
+            },
+            "percurso": 5303,
+            "numero_voltas": 58,
+            "distancia_total": 305574,
+            "url": "https://www.formula1.com/en/racing/2019/Australia.html",
+            "img_file": "img/corridas/australia.jpg",
+            "flag_icon": "au"
+        },
+        {
+            "id": 2,
+            "local": "Bahrein",
+            "data": {
+                "data_inicio": "29/03/2019",
+                "data_termino": "31/03/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2019",
+            "nome_circuito": "Circuito Internacional do Bahrein",
+            "localizacao": {
+                "cidade": "Sahkir",
+                "pais": "Bahrein"
+            },
+            "primeira_corrida": 2004,
+            "recorde_pista": {
+                "piloto_recorde": "Pedro De la Rosa",
+                "ano_recorde": 2005,
+                "tempo_recorde": "1:31.447"
+            },
+            "percurso": 5412,
+            "numero_voltas": 57,
+            "distancia_total": 308238,
+            "url": "https://www.formula1.com/en/racing/2019/Bahrain.html",
+            "img_file": "img/corridas/bahrein.jpg",
+            "flag_icon": "bh"
+        },
+        {
+            "id": 3,
+            "local": "China",
+            "data": {
+                "data_inicio": "12/04/2019",
+                "data_termino": "14/04/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2019",
+            "nome_circuito": "Circuito Internacional de Xangai",
+            "localizacao": {
+                "cidade": "Xangai",
+                "pais": "China"
+            },
+            "primeira_corrida": 2004,
+            "recorde_pista": {
+                "piloto_recorde": "Pedro de La Rosa",
+                "ano_recorde": 2005,
+                "tempo_recorde": "1:31.447"
+            },
+            "percurso": 5412,
+            "numero_voltas": 57,
+            "distancia_total": 308238,
+            "url": "https://www.formula1.com/en/racing/2019/China.html",
+            "img_file": "img/corridas/china.jpg",
+            "flag_icon": "cn"
+        },
+        {
+            "id": 4,
+            "local": "Azerbaijão",
+            "data": {
+                "data_inicio": "26/04/2019",
+                "data_termino": "28/04/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 AZERBAIJAN GRAND PRIX 2019",
+            "nome_circuito": "Circuito Urbano de Baku",
+            "localizacao": {
+                "cidade": "Baku",
+                "pais": "Azerbaijão"
+            },
+            "primeira_corrida": 2016,
+            "recorde_pista": {
+                "piloto_recorde": "Sebastian Vettel",
+                "ano_recorde": 2017,
+                "tempo_recorde": "1:43.441"
+            },
+            "percurso": 6003,
+            "numero_voltas": 51,
+            "distancia_total": 306049,
+            "url": "https://www.formula1.com/en/racing/2019/Azerbaijan.html",
+            "img_file": "img/corridas/azerbaijao.jpg",
+            "flag_icon": "az"
+        },
+        {
+            "id": 5,
+            "local": "Espanha",
+            "data": {
+                "data_inicio": "10/05/2019",
+                "data_termino": "12/05/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 EMIRATES GRAN PREMIO DE ESPAÑA 2019",
+            "nome_circuito": "Circuito de Barcelona-Catalunha",
+            "localizacao": {
+                "cidade": "Montmeló",
+                "pais": "Espanha"
+            },
+            "primeira_corrida": 1991,
+            "recorde_pista": {
+                "piloto_recorde": "Daniel Ricciardo",
+                "ano_recorde": 2018,
+                "tempo_recorde": "1:18.441"
+            },
+            "percurso": 4655,
+            "numero_voltas": 66,
+            "distancia_total": 307104,
+            "url": "https://www.formula1.com/en/racing/2019/Spain.html",
+            "img_file": "img/corridas/espanha.jpg",
+            "flag_icon": "es"
+        },
+        {
+            "id": 6,
+            "local": "Mônaco",
+            "data": {
+                "data_inicio": "23/05/2019",
+                "data_termino": "26/05/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 GRAND PRIX DE MONACO 2019",
+            "nome_circuito": "Circuito de Mônaco",
+            "localizacao": {
+                "cidade": "Monte Carlo",
+                "pais": "Mônaco"
+            },
+            "primeira_corrida": 1950,
+            "recorde_pista": {
+                "piloto_recorde": "Max Verstappen",
+                "ano_recorde": 2018,
+                "tempo_recorde": "1:14.260"
+            },
+            "percurso": 3337,
+            "numero_voltas": 78,
+            "distancia_total": 260286,
+            "url": "https://www.formula1.com/en/racing/2019/Monaco.html",
+            "img_file": "img/corridas/monaco.jpg",
+            "flag_icon": "mc"
+        },
+        {
+            "id": 7,
+            "local": "Canadá",
+            "data": {
+                "data_inicio": "07/06/2019",
+                "data_termino": "09/06/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2019",
+            "nome_circuito": "Circuito Gilles Villeneuve",
+            "localizacao": {
+                "cidade": "Montreal",
+                "pais": "Canadá"
+            },
+            "primeira_corrida": 1978,
+            "recorde_pista": {
+                "piloto_recorde": "Rubens Barrichello",
+                "ano_recorde": 2004,
+                "tempo_recorde": "1:13.622"
+            },
+            "percurso": 4361,
+            "numero_voltas": 57,
+            "distancia_total": 305270,
+            "url": "https://www.formula1.com/en/racing/2019/Canada.html",
+            "img_file": "img/corridas/canada.jpg",
+            "flag_icon": "ca"
+        },
+        {
+            "id": 8,
+            "local": "França",
+            "data": {
+                "data_inicio": "21/06/2019",
+                "data_termino": "23/06/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 GRAND PRIX DE FRANCE 2019",
+            "nome_circuito": "Circuito de Paul Ricard",
+            "localizacao": {
+                "cidade": "Le Castellet",
+                "pais": "França"
+            },
+            "primeira_corrida": 1971,
+            "recorde_pista": {
+                "piloto_recorde": "Vallteri Bottas",
+                "ano_recorde": 2018,
+                "tempo_recorde": "1:34.225"
+            },
+            "percurso": 5842,
+            "numero_voltas": 53,
+            "distancia_total": 309690,
+            "url": "https://www.formula1.com/en/racing/2019/france.html",
+            "img_file": "img/corridas/franca.jpg",
+            "flag_icon": "fr"
+        },
+        {
+            "id": 9,
+            "local": "Áustria",
+            "data": {
+                "data_inicio": "28/06/2019",
+                "data_termino": "30/06/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 MYWORLD GROSSER PREIS VON ÖSTERREICH 2019",
+            "nome_circuito": "Red Bull Ring",
+            "localizacao": {
+                "cidade": "Spielberg",
+                "pais": "Áustria"
+            },
+            "primeira_corrida": 1970,
+            "recorde_pista": {
+                "piloto_recorde": "Kimi Räikkönen",
+                "ano_recorde": 2018,
+                "tempo_recorde": "1:06.957"
+            },
+            "percurso": 4318,
+            "numero_voltas": 71,
+            "distancia_total": 306452,
+            "url": "https://www.formula1.com/en/racing/2019/Austria.html",
+            "img_file": "img/corridas/austria.jpg",
+            "flag_icon": "at"
+        },
+        {
+            "id": 10,
+            "local": "Inglaterra",
+            "data": {
+                "data_inicio": "12/07/2019",
+                "data_termino": "14/07/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 ROLEX BRITISH GRAND PRIX 2019",
+            "nome_circuito": "Circuito de Silverstone",
+            "localizacao": {
+                "cidade": "Silverstone",
+                "pais": "Inglaterra"
+            },
+            "primeira_corrida": 1950,
+            "recorde_pista": {
+                "piloto_recorde": "Lewis Hamilton",
+                "ano_recorde": 2017,
+                "tempo_recorde": "1:30.621"
+            },
+            "percurso": 5891,
+            "numero_voltas": 52,
+            "distancia_total": 306198,
+            "url": "https://www.formula1.com/en/racing/2019/Great_Britain.html",
+            "img_file": "img/corridas/inglaterra.jpg",
+            "flag_icon": "gb"
+        },
+        {
+            "id": 11,
+            "local": "Alemanha",
+            "data": {
+                "data_inicio": "26/07/2019",
+                "data_termino": "28/07/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 MERCEDES-BENZ GROSSER PREIS VON DEUTSCHLAND 2019",
+            "nome_circuito": "Hockenheimring",
+            "localizacao": {
+                "cidade": "Hockenheim",
+                "pais": "Alemanha"
+            },
+            "primeira_corrida": 1970,
+            "recorde_pista": {
+                "piloto_recorde": "Kimi Räikkönen",
+                "ano_recorde": 2004,
+                "tempo_recorde": "1:13.780"
+            },
+            "percurso": 4574,
+            "numero_voltas": 67,
+            "distancia_total": 306458,
+            "url": "https://www.formula1.com/en/racing/2019/Germany.html",
+            "img_file": "img/corridas/alemanha.jpg",
+            "flag_icon": "de"
+        },
+        {
+            "id": 12,
+            "local": "Hungria",
+            "data": {
+                "data_inicio": "02/08/2019",
+                "data_termino": "04/08/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 MAGYAR NAGYDÍJ 2019",
+            "nome_circuito": "Hungaroing",
+            "localizacao": {
+                "cidade": "Mogyoród",
+                "pais": "Hungria"
+            },
+            "primeira_corrida": 1986,
+            "recorde_pista": {
+                "piloto_recorde": "Michael Schumacher",
+                "ano_recorde": 2004,
+                "tempo_recorde": "1:19.071"
+            },
+            "percurso": 4381,
+            "numero_voltas": 70,
+            "distancia_total": 306630,
+            "url": "https://www.formula1.com/en/racing/2019/Hungary.html",
+            "img_file": "img/corridas/hungria.jpg",
+            "flag_icon": "hu"
+        },
+        {
+            "id": 13,
+            "local": "Bélgica",
+            "data": {
+                "data_inicio": "30/08/2019",
+                "data_termino": "01/09/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 JOHNNIE WALKER BELGIAN GRAND PRIX 2019",
+            "nome_circuito": "Circuito de Spa-Francorchamps",
+            "localizacao": {
+                "cidade": "Stavelot",
+                "pais": "Bélgica"
+            },
+            "primeira_corrida": 1950,
+            "recorde_pista": {
+                "piloto_recorde": "Valtteri Bottas",
+                "ano_recorde": 2018,
+                "tempo_recorde": "1:46.286"
+            },
+            "percurso": 7004,
+            "numero_voltas": 44,
+            "distancia_total": 308052,
+            "url": "https://www.formula1.com/en/racing/2019/Belgium.html",
+            "img_file": "img/corridas/belgica.jpg",
+            "flag_icon": "be"
+        },
+        {
+            "id": 14,
+            "local": "Itália",
+            "data": {
+                "data_inicio": "06/09/2019",
+                "data_termino": "08/09/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019",
+            "nome_circuito": "Autódromo Nacional de Monza",
+            "localizacao": {
+                "cidade": "Monza",
+                "pais": "Itália"
+            },
+            "primeira_corrida": 1950,
+            "recorde_pista": {
+                "piloto_recorde": "Rubens Barrichello",
+                "ano_recorde": 2004,
+                "tempo_recorde": "1:21.046"
+            },
+            "percurso": 5793,
+            "numero_voltas": 53,
+            "distancia_total": 306720,
+            "url": "https://www.formula1.com/en/racing/2019/Italy.html",
+            "img_file": "img/corridas/italia.jpg",
+            "flag_icon": "it"
+        },
+        {
+            "id": 15,
+            "local": "Singapura",
+            "data": {
+                "data_inicio": "20/09/2019",
+                "data_termino": "22/09/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2019",
+            "nome_circuito": "Circuito Urbano de Marina Bay",
+            "localizacao": {
+                "cidade": "Marina Bay",
+                "pais": "Singapura"
+            },
+            "primeira_corrida": 2008,
+            "recorde_pista": {
+                "piloto_recorde": "Kevin Magnussen",
+                "ano_recorde": 2018,
+                "tempo_recorde": "1:41.905"
+            },
+            "percurso": 5063,
+            "numero_voltas": 61,
+            "distancia_total": 308706,
+            "url": "https://www.formula1.com/en/racing/2019/Singapore.html",
+            "img_file": "img/corridas/singapura.jpg",
+            "flag_icon": "sg"
+        },
+        {
+            "id": 16,
+            "local": "Rússia",
+            "data": {
+                "data_inicio": "27/09/2019",
+                "data_termino": "29/09/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 VTB RUSSIAN GRAND PRIX 2019",
+            "nome_circuito": "Autódromo de Sochi",
+            "localizacao": {
+                "cidade": "Sochi",
+                "pais": "Rússia"
+            },
+            "primeira_corrida": 2014,
+            "recorde_pista": {
+                "piloto_recorde": "Valtteri Bottas",
+                "ano_recorde": 2018,
+                "tempo_recorde": "1:35.861"
+            },
+            "percurso": 5848,
+            "numero_voltas": 53,
+            "distancia_total": 309745,
+            "url": "https://www.formula1.com/en/racing/2019/Russia.html",
+            "img_file": "img/corridas/russia.jpg",
+            "flag_icon": "ru"
+        },
+        {
+            "id": 17,
+            "local": "Japão",
+            "data": {
+                "data_inicio": "11/10/2019",
+                "data_termino": "13/10/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 JAPANESE GRAND PRIX 2019",
+            "nome_circuito": "Circuito de Suzuka",
+            "localizacao": {
+                "cidade": "Suzuka",
+                "pais": "Japão"
+            },
+            "primeira_corrida": 1987,
+            "recorde_pista": {
+                "piloto_recorde": "Kimi Räikkönen",
+                "ano_recorde": 2005,
+                "tempo_recorde": "1:31.540"
+            },
+            "percurso": 5807,
+            "numero_voltas": 53,
+            "distancia_total": 307471,
+            "url": "https://www.formula1.com/en/racing/2019/Japan.html",
+            "img_file": "img/corridas/japao.jpg",
+            "flag_icon": "jp"
+        },
+        {
+            "id": 18,
+            "local": "México",
+            "data": {
+                "data_inicio": "25/10/2019",
+                "data_termino": "27/10/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 GRAN PREMIO DE MÉXICO 2019",
+            "nome_circuito": "Autódromo Hermanos Rodríguez",
+            "localizacao": {
+                "cidade": "Cidade do México",
+                "pais": "México"
+            },
+            "primeira_corrida": 1963,
+            "recorde_pista": {
+                "piloto_recorde": "Vallteri Bottas",
+                "ano_recorde": 2018,
+                "tempo_recorde": "1:18.741"
+            },
+            "percurso": 4304,
+            "numero_voltas": 71,
+            "distancia_total": 305354,
+            "url": "https://www.formula1.com/en/racing/2019/Mexico.html",
+            "img_file": "img/corridas/mexico.jpg",
+            "flag_icon": "mx"
+        },
+        {
+            "id": 19,
+            "local": "Estados Unidos",
+            "data": {
+                "data_inicio": "01/11/2019",
+                "data_termino": "03/11/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 UNITED STATES GRAND PRIX 2019",
+            "nome_circuito": "Circuito das Américas",
+            "localizacao": {
+                "cidade": "Austin",
+                "pais": "Estados Unidos"
+            },
+            "primeira_corrida": 2012,
+            "recorde_pista": {
+                "piloto_recorde": "Lewis Hamilton",
+                "ano_recorde": 2018,
+                "tempo_recorde": "1:37.392"
+            },
+            "percurso": 5513,
+            "numero_voltas": 56,
+            "distancia_total": 308405,
+            "url": "https://www.formula1.com/en/racing/2019/United_States.html",
+            "img_file": "img/corridas/eua.jpg",
+            "flag_icon": "us"
+        },
+        {
+            "id": 20,
+            "local": "Brasil",
+            "data": {
+                "data_inicio": "15/11/2019",
+                "data_termino": "17/11/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 HEINEKEN GRANDE PRÊMIO DO BRASIL 2019",
+            "nome_circuito": "Autódromo de Interlagos",
+            "localizacao": {
+                "cidade": "São Paulo",
+                "pais": "Brasil"
+            },
+            "primeira_corrida": 1973,
+            "recorde_pista": {
+                "piloto_recorde": "Valtteri Bottas",
+                "ano_recorde": 2018,
+                "tempo_recorde": "1:10.540"
+            },
+            "percurso":  4309,
+            "numero_voltas": 71,
+            "distancia_total": 305909,
+            "url": "https://www.formula1.com/en/racing/2019/Brazil.html",
+            "img_file": "img/corridas/brasil.jpg",
+            "flag_icon": "br"
+        },
+        {
+            "id": 21,
+            "local": "Emirados Árabes Unidos",
+            "data": {
+                "data_inicio": "29/11/2019",
+                "data_termino": "01/12/2019"
+            },
+            "nome_oficial_evento": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2019",
+            "nome_circuito": "Circuito de Yas Marina",
+            "localizacao": {
+                "cidade": "Abu Dhabi",
+                "pais": "Emirados Árabes Unidos"
+            },
+            "primeira_corrida": 2009,
+            "recorde_pista": {
+                "piloto_recorde": "Sebastian Vettel",
+                "ano_recorde": 2009,
+                "tempo_recorde": "1:40.279"
+            },
+            "percurso": 5554,
+            "numero_voltas": 55,
+            "distancia_total": 305355,
+            "url": "https://www.formula1.com/en/racing/2019/Abu_Dhabi.html",
+            "img_file": "img/corridas/emirados_arabes.jpg",
+            "flag_icon": "ae"
+        }
+    ],
+    "equipes": [
+        {
+            "equipe": "Mercedes",
+            "nome_oficial": "Mercedes AMG Petronas Motorsport",
+            "sede": {
+                "cidade": "Brackley",
+                "pais": "Reino Unido"
+            },
+            "chassis": "W10",
+            "primeiro_campeonato": 1970,
+            "unidade_potencia": "Mercedes",
+            "titulos_mundiais": 5,
+            "melhor_resultado": {
+                "posicao": 1,
+                "quantidade": 79
+            },
+            "pole_positions": 94,
+            "voltas_mais_rapidas": 58,
+            "url": "https://www.formula1.com/en/teams/Mercedes.html",
+            "img_file": "img/carros/mercedes.jpg",
+            "img_logo": "img/equipes/mercedes.jpg",
+            "flag_icon": "de"
+        },
+        {
+            "equipe": "Ferrari",
+            "nome_oficial": "Scuderia Ferrari Mission Winnow",
+            "sede": {
+                "cidade": "Maranello",
+                "pais": "Itália"
+            },
+            "chassis": "SF90",
+            "primeiro_campeonato": 1950,
+            "unidade_potencia": "Ferrari",
+            "titulos_mundiais": 16,
+            "melhor_resultado": {
+                "posicao": 1,
+                "quantidade": 236
+            },
+            "pole_positions": 215,
+            "voltas_mais_rapidas": 247,
+            "url": "https://www.formula1.com/en/teams/Ferrari.html",
+            "img_file": "img/carros/ferrari.jpg",
+            "img_logo": "img/equipes/ferrari.jpg",
+            "flag_icon": "it"
+        },
+        {
+            "equipe": "Red Bull",
+            "nome_oficial": "Aston Martin Red Bull Racing",
+            "sede": {
+                "cidade": "Milton Keynes",
+                "pais": "Reino Unido"
+            },
+            "chassis": "RB15",
+            "primeiro_campeonato": 1997,
+            "unidade_potencia": "Honda",
+            "titulos_mundiais": 4,
+            "melhor_resultado": {
+                "posicao": 1,
+                "quantidade": 59
+            },
+            "pole_positions": 60,
+            "voltas_mais_rapidas": 60,
+            "url": "https://www.formula1.com/en/teams/Red-Bull.html",
+            "img_file": "img/carros/red_bull.jpg",
+            "img_logo": "img/equipes/red_bull.jpg",
+            "flag_icon": "at"
+        },
+        {
+            "equipe": "Haas",
+            "nome_oficial": "Rich Energy Haas F1 Team",
+            "sede": {
+                "cidade": "Kannapolis",
+                "pais": "Estados Unidos"
+            },
+            "chassis": "VF-19",
+            "primeiro_campeonato": 2016,
+            "unidade_potencia": "Ferrari",
+            "titulos_mundiais": 0,
+            "melhor_resultado": {
+                "posicao": 4,
+                "quantidade": 1
+            },
+            "pole_positions": 0,
+            "voltas_mais_rapidas": 1,
+            "url": "https://www.formula1.com/en/teams/Haas.html",
+            "img_file": "img/carros/haas.jpg",
+            "img_logo": "img/equipes/haas.png",
+            "flag_icon": "us"
+        },
+        {
+            "equipe": "Renault",
+            "nome_oficial": "Renault F1 Team",
+            "sede": {
+                "cidade": "Enstone",
+                "pais": "Reino Unido"
+            },
+            "chassis": "R.S.19",
+            "primeiro_campeonato": 1986,
+            "unidade_potencia": "Renault",
+            "titulos_mundiais": 2,
+            "melhor_resultado": {
+                "posicao": 1,
+                "quantidade": 20
+            },
+            "pole_positions": 20,
+            "voltas_mais_rapidas": 13,
+            "url": "https://www.formula1.com/en/teams/Renault.html",
+            "img_file": "img/carros/renault.jpg",
+            "img_logo": "img/equipes/renault.jpg",
+            "flag_icon": "fr"
+        },
+        {
+            "equipe": "Alfa Romeo",
+            "nome_oficial": "Alfa Romeo Racing",
+            "sede": {
+                "cidade": "Hinwil",
+                "pais": "Suíça"
+            },
+            "chassis": "C38",
+            "primeiro_campeonato": 1993,
+            "unidade_potencia": "Ferrari",
+            "titulos_mundiais": 0,
+            "melhor_resultado": {
+                "posicao": 1,
+                "quantidade": 1
+            },
+            "pole_positions": 1,
+            "voltas_mais_rapidas": 5,
+            "url": "https://www.formula1.com/en/teams/Alfa-Romeo.html",
+            "img_file": "img/carros/alfa_romeo.jpg",
+            "img_logo": "img/equipes/alfa_romeo.png",
+            "flag_icon": "ch"
+        },
+        {
+            "equipe": "Racing Point",
+            "nome_oficial": "SportPesa Racing Point F1 Team",
+            "sede": {
+                "cidade": "Silverstone",
+                "pais": "Inglaterra"
+            },
+            "chassis": "RP19",
+            "primeiro_campeonato": 2019,
+            "unidade_potencia": "BWT Mercedes",
+            "titulos_mundiais": 0,
+            "melhor_resultado": {
+                "posicao": 9,
+                "quantidade": 1
+            },
+            "pole_positions": 0,
+            "voltas_mais_rapidas": 0,
+            "url": "https://www.formula1.com/en/teams/Racing-Point.html",
+            "img_file": "img/carros/racing_point.jpg",
+            "img_logo": "img/equipes/racing_point.jpg",
+            "flag_icon": "gb"
+        },
+        {
+            "equipe": "Toro Rosso",
+            "nome_oficial": "Red Bull Toro Rosso Honda",
+            "sede": {
+                "cidade": "Faenza",
+                "pais": "Itália"
+            },
+            "chassis": "STR14",
+            "primeiro_campeonato": 1985,
+            "unidade_potencia": "Honda",
+            "titulos_mundiais": 0,
+            "melhor_resultado": {
+                "posicao": 1,
+                "quantidade": 1
+            },
+            "pole_positions": 1,
+            "voltas_mais_rapidas": 1,
+            "url": "https://www.formula1.com/en/teams/Toro-Rosso.html",
+            "img_file": "img/carros/toro_rosso.jpg",
+            "img_logo": "img/equipes/toro_rosso.jpg",
+            "flag_icon": "it"
+        },
+        {
+            "equipe": "McLaren",
+            "nome_oficial": "McLaren F1 Team",
+            "sede": {
+                "cidade": "Woking",
+                "pais": "Reino Unido"
+            },
+            "chassis": "MCL34",
+            "primeiro_campeonato": 1970,
+            "unidade_potencia": "Renault",
+            "titulos_mundiais": 8,
+            "melhor_resultado": {
+                "posicao": 1,
+                "quantidade": 182
+            },
+            "pole_positions": 155,
+            "voltas_mais_rapidas": 155,
+            "url": "https://www.formula1.com/en/teams/McLaren.html",
+            "img_file": "img/carros/mclaren.jpg",
+            "img_logo": "img/equipes/mclaren.jpg",
+            "flag_icon": "gb"
+        },
+        {
+            "equipe": "Williams",
+            "nome_oficial": "ROKiT Williams Racing",
+            "sede": {
+                "cidade": "Grove",
+                "pais": "Reino Unido"
+            },
+            "chassis": "FW42",
+            "primeiro_campeonato": 1978,
+            "unidade_potencia": "Mercedes",
+            "titulos_mundiais": 9,
+            "melhor_resultado": {
+                "posicao": 1,
+                "quantidade": 114
+            },
+            "pole_positions": 129,
+            "voltas_mais_rapidas": 133,
+            "url": "https://www.formula1.com/en/teams/Williams.html",
+            "img_file": "img/carros/williams.jpg",
+            "img_logo": "img/equipes/williams.png",
+            "flag_icon": "gb"
+        }
+    ],
+    "pilotos": [
+        {
+            "nome": "Lewis Hamilton",
+            "numero": 44,
+            "equipe": "Mercedes",
+            "podios": 135,
+            "pontos_ganhos": 3036,
+            "gps_disputados": 230,
+            "titulos_mundiais": {
+                "nr_titulos": 5,
+                "titulos": [2008, 2014, 2015, 2017, 2018]
+            },
+            "melhor_colocacao": {
+                "posicao": 1,
+                "quantidade": 73
+            },
+            "data_nascimento": "07/01/1985",
+            "naturalidade": {
+                "cidade": "Stevenage",
+                "pais": "Reino Unido"
+            },
+            "img_file": "img/pilotos/hamilton.jpg",
+            "flag_icon": "gb"
+        },
+        {
+            "nome": "Valtteri Bottas",
+            "numero": 77,
+            "equipe": "Mercedes",
+            "podios": 31,
+            "pontos_ganhos": 989,
+            "gps_disputados": 120,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 1,
+                "quantidade": 4
+            },
+            "data_nascimento": "28/08/1989",
+            "naturalidade": {
+                "cidade": "Nastola",
+                "pais": "Finlândia"
+            },
+            "img_file": "img/pilotos/valtteri-bottas.jpg",
+            "flag_icon": "fi"
+        },
+        {
+            "nome": "Sebastian Vettel",
+            "numero": 5,
+            "equipe": "Ferrari",
+            "podios": 111,
+            "pontos_ganhos": 2757,
+            "gps_disputados": 221,
+            "titulos_mundiais": {
+                "nr_titulos": 4,
+                "titulos": [2010, 2011, 2012, 2013]
+            },
+            "melhor_colocacao": {
+                "posicao": 1,
+                "quantidade": 52
+            },
+            "data_nascimento": "03/07/1987",
+            "naturalidade": {
+                "cidade": "Heppenheim",
+                "pais": "Alemanha"
+            },
+            "img_file": "img/pilotos/vettel.jpg",
+            "flag_icon": "de"
+        },
+        {
+            "nome": "Charles Leclerc",
+            "numero": 16,
+            "equipe": "Ferrari",
+            "podios": 0,
+            "pontos_ganhos": 49,
+            "gps_disputados": 22,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 5,
+                "quantidade": 1
+            },
+            "data_nascimento": "16/10/1997",
+            "naturalidade": {
+                "cidade": "Monte Carlo",
+                "pais": "Mônaco"
+            },
+            "img_file": "img/pilotos/leclerc.jpg",
+            "flag_icon": "mc"
+        },
+        {
+            "nome": "Max Verstappen",
+            "numero": 33,
+            "equipe": "Red Bull",
+            "podios": 23,
+            "pontos_ganhos": 685,
+            "gps_disputados": 82,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 1,
+                "quantidade": 5
+            },
+            "data_nascimento": "30/09/1997",
+            "naturalidade": {
+                "cidade": "Hasselt",
+                "pais": "Bélgica"
+            },
+            "img_file": "img/pilotos/verstappen.jpg",
+            "flag_icon": "nl"
+        },
+        {
+            "nome": "Pierre Gasly",
+            "numero": 10,
+            "equipe": "Red Bull",
+            "podios": 0,
+            "pontos_ganhos": 29,
+            "gps_disputados": 27,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 4,
+                "quantidade": 1
+            },
+            "data_nascimento": "07/02/1996",
+            "naturalidade": {
+                "cidade": "Rouen",
+                "pais": "França"
+            },
+            "img_file": "img/pilotos/gasly.jpg",
+            "flag_icon": "fr"
+        },
+        {
+            "nome": "Kevin Magnussen",
+            "numero": 20,
+            "equipe": "Haas",
+            "podios": 1,
+            "pontos_ganhos": 145,
+            "gps_disputados": 83,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 2,
+                "quantidade": 1
+            },
+            "data_nascimento": "05/10/1992",
+            "naturalidade": {
+                "cidade": "Roskilde",
+                "pais": "Dinamarca"
+            },
+            "img_file": "img/pilotos/magnussen.jpg",
+            "flag_icon": "dk"
+        },
+        {
+            "nome": "Romain Grosjean",
+            "numero": 8,
+            "equipe": "Haas",
+            "podios": 10,
+            "pontos_ganhos": 381,
+            "gps_disputados": 146,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 2,
+                "quantidade": 2
+            },
+            "data_nascimento": "17/04/1986",
+            "naturalidade": {
+                "cidade": "Genebra",
+                "pais": "Suíça"
+            },
+            "img_file": "img/pilotos/grosjean.jpg",
+            "flag_icon": "fr"
+        },
+        {
+            "nome": "Daniil Kvyat",
+            "numero": 26,
+            "equipe": "Toro Rosso",
+            "podios": 2,
+            "pontos_ganhos": 134,
+            "gps_disputados": 75,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 2,
+                "quantidade": 1
+            },
+            "data_nascimento": "26/04/1994",
+            "naturalidade": {
+                "cidade": "Ufa",
+                "pais": "Rússia"
+            },
+            "img_file": "img/pilotos/kvyat.jpg",
+            "flag_icon": "ru"
+        },
+        {
+            "nome": "Alexander Albon",
+            "numero": 23,
+            "equipe": "Toro Rosso",
+            "podios": 0,
+            "pontos_ganhos": 0,
+            "gps_disputados": 1,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 14,
+                "quantidade": 1
+            },
+            "data_nascimento": "23/03/1996",
+            "naturalidade": {
+                "cidade": "Londres",
+                "pais": "Inglaterra"
+            },
+            "img_file": "img/pilotos/albon.jpg",
+            "flag_icon": "th"
+        },
+        {
+            "nome": "Nico Hulkenberg",
+            "numero": 27,
+            "equipe": "Renault",
+            "podios": 0,
+            "pontos_ganhos": 480,
+            "gps_disputados": 159,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 4,
+                "quantidade": 3
+            },
+            "data_nascimento": "19/08/1987",
+            "naturalidade": {
+                "cidade": "Emmerich am Rhein",
+                "pais": "Alemanha"
+            },
+            "img_file": "img/pilotos/hulkenberg.jpg",
+            "flag_icon": "de"
+        },
+        {
+            "nome": "Daniel Ricciardo",
+            "numero": 3,
+            "equipe": "Renault",
+            "podios": 29,
+            "pontos_ganhos": 986,
+            "gps_disputados": 151,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 1,
+                "quantidade": 7
+            },
+            "data_nascimento": "01/07/1989",
+            "naturalidade": {
+                "cidade": "Perth",
+                "pais": "Austrália"
+            },
+            "img_file": "img/pilotos/ricciardo.jpg",
+            "flag_icon": "au"
+        },
+        {
+            "nome": "Kimi Räikkönen",
+            "numero": 7,
+            "equipe": "Alfa Romeo",
+            "podios": 103,
+            "pontos_ganhos": 1820,
+            "gps_disputados": 295,
+            "titulos_mundiais": {
+                "nr_titulos": 1,
+                "titulos": [2007]
+            },
+            "melhor_colocacao": {
+                "posicao": 1,
+                "quantidade": 21
+            },
+            "data_nascimento": "17/10/1979",
+            "naturalidade": {
+                "cidade": "Espoo",
+                "pais": "Finlândia"
+            },
+            "img_file": "img/pilotos/raikkonen.jpg",
+            "flag_icon": "fi"
+        },
+        {
+            "nome": "Antonio Giovinazzi",
+            "numero": 99,
+            "equipe": "Alfa Romeo",
+            "podios": 0,
+            "pontos_ganhos": 0,
+            "gps_disputados": 3,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 12,
+                "quantidade": 1
+            },
+            "data_nascimento": "14/12/1993",
+            "naturalidade": {
+                "cidade": "Martina Franca",
+                "pais": "Itália"
+            },
+            "img_file": "img/pilotos/giovinazzi.jpg",
+            "flag_icon": "it"
+        },
+        {
+            "nome": "Sergio Perez",
+            "numero": 11,
+            "equipe": "Racing Point",
+            "podios": 8,
+            "pontos_ganhos": 529,
+            "gps_disputados": 158,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 2,
+                "quantidade": 2
+            },
+            "data_nascimento": "26/01/1990",
+            "naturalidade": {
+                "cidade": "Guadalajara",
+                "pais": "México"
+            },
+            "img_file": "img/pilotos/perez.jpg",
+            "flag_icon": "mx"
+        },
+        {
+            "nome": "Lance Stroll",
+            "numero": 18,
+            "equipe": "Racing Point",
+            "podios": 1,
+            "pontos_ganhos": 48,
+            "gps_disputados": 42,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 3,
+                "quantidade": 1
+            },
+            "data_nascimento": "29/10/1998",
+            "naturalidade": {
+                "cidade": "Montreal",
+                "pais": "Canadá"
+            },
+            "img_file": "img/pilotos/stroll.jpg",
+            "flag_icon": "ca"
+        },
+        {
+            "nome": "Carlos Sainz",
+            "numero": 55,
+            "equipe": "McLaren",
+            "podios": 0,
+            "pontos_ganhos": 171,
+            "gps_disputados": 82,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 4,
+                "quantidade": 1
+            },
+            "data_nascimento": "01/09/1994",
+            "naturalidade": {
+                "cidade": "Madri",
+                "pais": "Espanha"
+            },
+            "img_file": "img/pilotos/sainz.jpg",
+            "flag_icon": "es"
+        },
+        {
+            "nome": "Lando Norris",
+            "numero": 4,
+            "equipe": "McLaren",
+            "podios": 0,
+            "pontos_ganhos": 0,
+            "gps_disputados": 1,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 12,
+                "quantidade": 1
+            },
+            "data_nascimento": "13/11/1999",
+            "naturalidade": {
+                "cidade": "Bristol",
+                "pais": "Inglaterra"
+            },
+            "img_file": "img/pilotos/norris.jpg",
+            "flag_icon": "gb"
+        },
+        {
+            "nome": "Robert Kubica",
+            "numero": 88,
+            "equipe": "Williams",
+            "podios": 12,
+            "pontos_ganhos": 273,
+            "gps_disputados": 77,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 1,
+                "quantidade": 1
+            },
+            "data_nascimento": "07/12/1984",
+            "naturalidade": {
+                "cidade": "Cracóvia",
+                "pais": "Polônia"
+            },
+            "img_file": "img/pilotos/kubica.jpg",
+            "flag_icon": "pl"
+        },
+        {
+            "nome": "George Russell",
+            "numero": 63,
+            "equipe": "Williams",
+            "podios": 0,
+            "pontos_ganhos": 0,
+            "gps_disputados": 1,
+            "titulos_mundiais": {
+                "nr_titulos": 0,
+                "titulos": []
+            },
+            "melhor_colocacao": {
+                "posicao": 16,
+                "quantidade": 1
+            },
+            "data_nascimento": "15/02/1998",
+            "naturalidade": {
+                "cidade": "King's Lynn",
+                "pais": "Inglaterra"
+            },
+            "img_file": "img/pilotos/russell.jpg",
+            "flag_icon": "gb"
+        }
+    ],
+    "pontuação": {
+        "1": 25,
+        "2": 18,
+        "3": 15,
+        "4": 12,
+        "5": 10,
+        "6": 8,
+        "7": 6,
+        "8": 4,
+        "9": 2,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0,
+        "0": 0
+    },
+    "resultados": {
+        "Lewis Hamilton": [
+            {"grande_premio": "Austrália", "posicao": 2, "pontos_ganhos": 18},
+            {"grande_premio": "Bahrein", "posicao": 1, "pontos_ganhos": 25},
+            {"grande_premio": "China", "posicao": 1, "pontos_ganhos": 25},
+            {"grande_premio": "Azerbaijão", "posicao": 2, "pontos_ganhos": 18},
+            {"grande_premio": "Espanha", "posicao": 1, "pontos_ganhos": 25, "melhor_volta": 1},
+            {"grande_premio": "Mônaco", "posicao": 1, "pontos_ganhos": 25},
+            {"grande_premio": "Canadá", "posicao": 1, "pontos_ganhos": 25},
+            {"grande_premio": "França", "posicao": 1, "pontos_ganhos": 25}
+        ],
+        "Valtteri Bottas": [
+            {"grande_premio": "Austrália", "posicao": 1, "pontos_ganhos": 25, "melhor_volta": 1},
+            {"grande_premio": "Bahrein", "posicao": 2, "pontos_ganhos": 18},
+            {"grande_premio": "China", "posicao": 2, "pontos_ganhos": 18},
+            {"grande_premio": "Azerbaijão", "posicao": 1, "pontos_ganhos": 25},
+            {"grande_premio": "Espanha", "posicao": 2, "pontos_ganhos": 18},
+            {"grande_premio": "Mônaco", "posicao": 3, "pontos_ganhos": 15},
+            {"grande_premio": "Canadá", "posicao": 4, "pontos_ganhos": 12, "melhor_volta": 1},
+            {"grande_premio": "França", "posicao": 2, "pontos_ganhos": 18}
+        ],
+        "Sebastian Vettel": [
+            {"grande_premio": "Austrália", "posicao": 4, "pontos_ganhos": 12},
+            {"grande_premio": "Bahrein", "posicao": 5, "pontos_ganhos": 10},
+            {"grande_premio": "China", "posicao": 3, "pontos_ganhos": 15},
+            {"grande_premio": "Azerbaijão", "posicao": 3, "pontos_ganhos": 15},
+            {"grande_premio": "Espanha", "posicao": 4, "pontos_ganhos": 12},
+            {"grande_premio": "Mônaco", "posicao": 2, "pontos_ganhos": 18},
+            {"grande_premio": "Canadá", "posicao": 2, "pontos_ganhos": 18},
+            {"grande_premio": "França", "posicao": 5, "pontos_ganhos": 10, "melhor_volta": 1}
+        ],
+        "Charles Leclerc": [
+            {"grande_premio": "Austrália", "posicao": 5, "pontos_ganhos": 10},
+            {"grande_premio": "Bahrein", "posicao": 3, "pontos_ganhos": 16, "melhor_volta": 1},
+            {"grande_premio": "China", "posicao": 5, "pontos_ganhos": 10},
+            {"grande_premio": "Azerbaijão", "posicao": 5, "pontos_ganhos": 10, "melhor_volta": 1},
+            {"grande_premio": "Espanha", "posicao": 5, "pontos_ganhos": 10},
+            {"grande_premio": "Mônaco", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "Canadá", "posicao": 3, "pontos_ganhos": 15},
+            {"grande_premio": "França", "posicao": 3, "pontos_ganhos": 15}
+        ],
+        "Max Verstappen": [
+            {"grande_premio": "Austrália", "posicao": 3, "pontos_ganhos": 15},
+            {"grande_premio": "Bahrein", "posicao": 4, "pontos_ganhos": 12},
+            {"grande_premio": "China", "posicao": 4, "pontos_ganhos": 12},
+            {"grande_premio": "Azerbaijão", "posicao": 4, "pontos_ganhos": 12},
+            {"grande_premio": "Espanha", "posicao": 3, "pontos_ganhos": 15},
+            {"grande_premio": "Mônaco", "posicao": 4, "pontos_ganhos": 12},
+            {"grande_premio": "Canadá", "posicao": 5, "pontos_ganhos": 10},
+            {"grande_premio": "França", "posicao": 4, "pontos_ganhos": 12}
+        ],
+        "Pierre Gasly": [
+            {"grande_premio": "Austrália", "posicao": 11, "pontos_ganhos": 0},
+            {"grande_premio": "Bahrein", "posicao": 8, "pontos_ganhos": 4},
+            {"grande_premio": "China", "posicao": 6, "pontos_ganhos": 9, "melhor_volta": 1},
+            {"grande_premio": "Azerbaijão", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "Espanha", "posicao": 6, "pontos_ganhos": 8},
+            {"grande_premio": "Mônaco", "posicao": 5, "pontos_ganhos": 10, "melhor_volta": 1},
+            {"grande_premio": "Canadá", "posicao": 8, "pontos_ganhos": 4},
+            {"grande_premio": "França", "posicao": 10, "pontos_ganhos": 1}
+        ],
+        "Kevin Magnussen": [
+            {"grande_premio": "Austrália", "posicao": 6, "pontos_ganhos": 8},
+            {"grande_premio": "Bahrein", "posicao": 13, "pontos_ganhos": 0},
+            {"grande_premio": "China", "posicao": 13, "pontos_ganhos": 0},
+            {"grande_premio": "Azerbaijão", "posicao": 13, "pontos_ganhos": 0},
+            {"grande_premio": "Espanha", "posicao": 7, "pontos_ganhos": 6},
+            {"grande_premio": "Mônaco", "posicao": 14, "pontos_ganhos": 0},
+            {"grande_premio": "Canadá", "posicao": 17, "pontos_ganhos": 0},
+            {"grande_premio": "França", "posicao": 17, "pontos_ganhos": 0}
+        ],
+        "Romain Grosjean": [
+            {"grande_premio": "Austrália", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "Bahrein", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "China", "posicao": 11, "pontos_ganhos": 0},
+            {"grande_premio": "Azerbaijão", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "Espanha", "posicao": 10, "pontos_ganhos": 1},
+            {"grande_premio": "Mônaco", "posicao": 10, "pontos_ganhos": 1},
+            {"grande_premio": "Canadá", "posicao": 14, "pontos_ganhos": 0},
+            {"grande_premio": "França", "posicao": 0, "pontos_ganhos": 0}
+        ],
+        "Daniil Kvyat": [
+            {"grande_premio": "Austrália", "posicao": 10, "pontos_ganhos": 1},
+            {"grande_premio": "Bahrein", "posicao": 12, "pontos_ganhos": 0},
+            {"grande_premio": "China", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "Azerbaijão", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "Espanha", "posicao": 9, "pontos_ganhos": 2},
+            {"grande_premio": "Mônaco", "posicao": 7, "pontos_ganhos": 6},
+            {"grande_premio": "Canadá", "posicao": 10, "pontos_ganhos": 1},
+            {"grande_premio": "França", "posicao": 14, "pontos_ganhos": 0}
+        ],
+        "Alexander Albon": [
+            {"grande_premio": "Austrália", "posicao": 14, "pontos_ganhos": 0},
+            {"grande_premio": "Bahrein", "posicao": 9, "pontos_ganhos": 2},
+            {"grande_premio": "China", "posicao": 10, "pontos_ganhos": 1},
+            {"grande_premio": "Azerbaijão", "posicao": 11, "pontos_ganhos": 0},
+            {"grande_premio": "Espanha", "posicao": 11, "pontos_ganhos": 0},
+            {"grande_premio": "Mônaco", "posicao": 8, "pontos_ganhos": 4},
+            {"grande_premio": "Canadá", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "França", "posicao": 15, "pontos_ganhos": 0}
+        ],
+        "Nico Hulkenberg": [
+            {"grande_premio": "Austrália", "posicao": 7, "pontos_ganhos": 6},
+            {"grande_premio": "Bahrein", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "China", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "Azerbaijão", "posicao": 14, "pontos_ganhos": 0},
+            {"grande_premio": "Espanha", "posicao": 13, "pontos_ganhos": 0},
+            {"grande_premio": "Mônaco", "posicao": 13, "pontos_ganhos": 0},
+            {"grande_premio": "Canadá", "posicao": 7, "pontos_ganhos": 6},
+            {"grande_premio": "França", "posicao": 8, "pontos_ganhos": 4}
+        ],
+        "Daniel Ricciardo": [
+            {"grande_premio": "Austrália", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "Bahrein", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "China", "posicao": 7, "pontos_ganhos": 6},
+            {"grande_premio": "Azerbaijão", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "Espanha", "posicao": 12, "pontos_ganhos": 0},
+            {"grande_premio": "Mônaco", "posicao": 9, "pontos_ganhos": 2},
+            {"grande_premio": "Canadá", "posicao": 6, "pontos_ganhos": 8},
+            {"grande_premio": "França", "posicao": 11, "pontos_ganhos": 0}
+        ],
+        "Kimi Räikkönen": [
+            {"grande_premio": "Austrália", "posicao": 8, "pontos_ganhos": 4},
+            {"grande_premio": "Bahrein", "posicao": 7, "pontos_ganhos": 6},
+            {"grande_premio": "China", "posicao": 9, "pontos_ganhos": 2},
+            {"grande_premio": "Azerbaijão", "posicao": 10, "pontos_ganhos": 1},
+            {"grande_premio": "Espanha", "posicao": 14, "pontos_ganhos": 0},
+            {"grande_premio": "Mônaco", "posicao": 17, "pontos_ganhos": 0},
+            {"grande_premio": "Canadá", "posicao": 15, "pontos_ganhos": 0},
+            {"grande_premio": "França", "posicao": 7, "pontos_ganhos": 6}
+        ],
+        "Antonio Giovinazzi": [
+            {"grande_premio": "Austrália", "posicao": 15, "pontos_ganhos": 0},
+            {"grande_premio": "Bahrein", "posicao": 11, "pontos_ganhos": 0},
+            {"grande_premio": "China", "posicao": 15, "pontos_ganhos": 0},
+            {"grande_premio": "Azerbaijão", "posicao": 12, "pontos_ganhos": 0},
+            {"grande_premio": "Espanha", "posicao": 16, "pontos_ganhos": 0},
+            {"grande_premio": "Mônaco", "posicao": 19, "pontos_ganhos": 0},
+            {"grande_premio": "Canadá", "posicao": 13, "pontos_ganhos": 0},
+            {"grande_premio": "França", "posicao": 16, "pontos_ganhos": 0}
+        ],
+        "Sergio Perez": [
+            {"grande_premio": "Austrália", "posicao": 13, "pontos_ganhos": 0},
+            {"grande_premio": "Bahrein", "posicao": 10, "pontos_ganhos": 1},
+            {"grande_premio": "China", "posicao": 8, "pontos_ganhos": 4},
+            {"grande_premio": "Azerbaijão", "posicao": 6, "pontos_ganhos": 8},
+            {"grande_premio": "Espanha", "posicao": 15, "pontos_ganhos": 0},
+            {"grande_premio": "Mônaco", "posicao": 12, "pontos_ganhos": 0},
+            {"grande_premio": "Canadá", "posicao": 12, "pontos_ganhos": 0},
+            {"grande_premio": "França", "posicao": 12, "pontos_ganhos": 0}
+        ],
+        "Lance Stroll": [
+            {"grande_premio": "Austrália", "posicao": 9, "pontos_ganhos": 2},
+            {"grande_premio": "Bahrein", "posicao": 14, "pontos_ganhos": 0},
+            {"grande_premio": "China", "posicao": 12, "pontos_ganhos": 0},
+            {"grande_premio": "Azerbaijão", "posicao": 9, "pontos_ganhos": 2},
+            {"grande_premio": "Espanha", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "Mônaco", "posicao": 16, "pontos_ganhos": 0},
+            {"grande_premio": "Canadá", "posicao": 9, "pontos_ganhos": 2},
+            {"grande_premio": "França", "posicao": 13, "pontos_ganhos": 0}
+        ],
+        "Carlos Sainz": [
+            {"grande_premio": "Austrália", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "Bahrein", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "China", "posicao": 14, "pontos_ganhos": 0},
+            {"grande_premio": "Azerbaijão", "posicao": 7, "pontos_ganhos": 6},
+            {"grande_premio": "Espanha", "posicao": 8, "pontos_ganhos": 4},
+            {"grande_premio": "Mônaco", "posicao": 6, "pontos_ganhos": 8},
+            {"grande_premio": "Canadá", "posicao": 11, "pontos_ganhos": 0},
+            {"grande_premio": "França", "posicao": 6, "pontos_ganhos": 8}
+        ],
+        "Lando Norris": [
+            {"grande_premio": "Austrália", "posicao": 12, "pontos_ganhos": 0},
+            {"grande_premio": "Bahrein", "posicao": 6, "pontos_ganhos": 8},
+            {"grande_premio": "China", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "Azerbaijão", "posicao": 8, "pontos_ganhos": 4},
+            {"grande_premio": "Espanha", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "Mônaco", "posicao": 11, "pontos_ganhos": 0},
+            {"grande_premio": "Canadá", "posicao": 0, "pontos_ganhos": 0},
+            {"grande_premio": "França", "posicao": 9, "pontos_ganhos": 2}
+        ],
+        "Robert Kubica": [
+            {"grande_premio": "Austrália", "posicao": 17, "pontos_ganhos": 0},
+            {"grande_premio": "Bahrein", "posicao": 16, "pontos_ganhos": 0},
+            {"grande_premio": "China", "posicao": 17, "pontos_ganhos": 0},
+            {"grande_premio": "Azerbaijão", "posicao": 16, "pontos_ganhos": 0},
+            {"grande_premio": "Espanha", "posicao": 18, "pontos_ganhos": 0},
+            {"grande_premio": "Mônaco", "posicao": 18, "pontos_ganhos": 0},
+            {"grande_premio": "Canadá", "posicao": 18, "pontos_ganhos": 0},
+            {"grande_premio": "França", "posicao": 18, "pontos_ganhos": 0}
+        ],
+        "George Russell": [
+            {"grande_premio": "Austrália", "posicao": 16, "pontos_ganhos": 0},
+            {"grande_premio": "Bahrein", "posicao": 15, "pontos_ganhos": 0},
+            {"grande_premio": "China", "posicao": 16, "pontos_ganhos": 0},
+            {"grande_premio": "Azerbaijão", "posicao": 15, "pontos_ganhos": 0},
+            {"grande_premio": "Espanha", "posicao": 17, "pontos_ganhos": 0},
+            {"grande_premio": "Mônaco", "posicao": 15, "pontos_ganhos": 0},
+            {"grande_premio": "Canadá", "posicao": 16, "pontos_ganhos": 0},
+            {"grande_premio": "França", "posicao": 19, "pontos_ganhos": 0}
+        ]
+    }
+}
